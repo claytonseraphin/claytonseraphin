@@ -1,6 +1,6 @@
 ## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
-I´m Clayton, Full Stack Web Developer. 📍 D.C.
+I´m Clayton, Full Stack Developer. 📍 D.C.
 
 ## 🚀💻 Technologies & Tools
 
